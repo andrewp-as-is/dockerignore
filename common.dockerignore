@@ -1,0 +1,4 @@
+*.log
+*.md
+docker-compose*.yml
+Dockerfile
